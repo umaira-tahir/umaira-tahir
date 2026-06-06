@@ -58,6 +58,19 @@ Here you'll find:
 
 ---
 
+## 🎓 Certifications
+
+### 🤖 Artificial Intelligence & Core AI Track
+- **NVIDIA Generative AI LLMs Associate Certification** — KodeKloud
+- **AI Agents (Multi-Agent Orchestration & Autonomous Design)** — KodeKloud
+- **Python API Development with FastAPI** — KodeKloud
+- **EduQual Level 4 Diploma in AI Advancement** — *(In Progress)*
+
+### 🛡️ Cloud Infrastructure & MLOps Foundation
+- **Certified Kubernetes Application Developer (CKAD) with hands-on labs** — KodeKloud
+- **Red Hat Certified System Administrator (RHCSA)** — KodeKloud
+
+---
 
 ## 📫 Connect With Me
 
