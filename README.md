@@ -1,40 +1,62 @@
-<div align="center">
+Hi 👋, I'm Umaira Tahir
+AI Engineering Student | Aspiring AI & MLOps Engineer
+👩‍💻 About Me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:38BDF8&height=220&section=header&text=Umaira%20Tahir&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineering%20Student%20%7C%20Aspiring%20AI%20%26%20MLOps%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+🎓 Currently pursuing the EduQual Level 4 Diploma in AI Advancement
 
-<a href="https://github.com/umaira-tahir">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+Engineer+in+the+making+%F0%9F%A4%96;Agentic+AI+%7C+RAG+%7C+LLMs+%7C+MLOps;Building+intelligent%2C+scalable+AI+systems;Currently+pursuing+EduQual+Level+4+Diploma+in+AI" alt="Typing SVG" />
-</a>
+🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, and AI Agents
 
-<br/>
+💡 My goal is to become a skilled AI Engineer capable of building intelligent, scalable, and impactful AI solutions.
+🌱 Currently Learning
 
-<img src="https://komarev.com/ghpvc/?username=umaira-tahir&color=38BDF8&style=flat-square&label=Profile+Views" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/umaira-tahir?label=Followers&style=flat-square&color=38BDF8" alt="followers"/>
+    📊 Data Science & Analytics: Data Analysis, NumPy, Pandas, Matplotlib, Scikit-learn
+    🧠 Core AI: Machine Learning Mathematics, Deep Learning Deep Dive
+    👁️ Advanced Fields: Computer Vision & Natural Language Processing (NLP)
+    🤖 GenAI & Agents: Retrieval-Augmented Generation (RAG), QLoRA, and Agentic AI
 
-</div>
+🛠️ Tech Stack & Infrastructure Tools
 
-<br/>
+    Languages & Frameworks: Python | Bash Scripting | FastAPI
+    Data & Databases: SQL (MySQL, PostgreSQL) | MongoDB
+    Orchestration & DevOps: Kubernetes 🛡️ | Docker | Git & GitHub
+    AI/ML Libraries: NumPy | Pandas | Matplotlib | Scikit-learn
 
-## 👩‍💻 Who I Am
+🎯 2026 Goals
 
-```ts
-const umairaTahir = {
-  title: "AI Engineering Student | Aspiring AI & Agentic AI & MLOps Engineer",
-  currentlyLearning: [
-    "Data Science & Analytics",
-    "Machine Learning Mathematics",
-    "Deep Learning Deep Dive",
-    "Computer Vision & NLP",
-    "RAG, QLoRA & Agentic AI"
-  ],
-  certifications: [
-    "NVIDIA Generative AI LLMs Associate — KodeKloud",
-    "AI Agents: Multi-Agent Orchestration & Autonomous Design — KodeKloud",
-    "Python API Development with FastAPI — KodeKloud",
-    "Certified Kubernetes Application Developer (CKAD) — KodeKloud",
-    "Red Hat Certified System Administrator (RHCSA) — KodeKloud",
-    "EduQual Level 4 Diploma in AI Advancement — In Progress"
-  ],
-  status: "Building a strong AI portfolio in 2026 🚀",
-  openTo: ["AI Engineering roles", "MLOps collaborations", "Open Source AI projects"]
-};
+    Build a strong AI portfolio
+    Complete Machine Learning and Deep Learning projects
+    Learn MLOps and Cloud Technologies
+    Build Generative AI and AI Agent projects
+    Contribute to Open Source
+    Grow as an AI Engineer
+
+📊 GitHub Journey
+
+This profile documents my journey from AI student to AI Engineer.
+
+Here you'll find:
+
+    Learning Projects
+    AI Experiments
+    Practice Repositories
+    Notes & Resources
+    Portfolio Projects
+    Open Source Contributions
+
+🎓 Certifications
+🤖 Artificial Intelligence & Core AI Track
+
+    NVIDIA Generative AI LLMs Associate Certification — KodeKloud
+    AI Agents (Multi-Agent Orchestration & Autonomous Design) — KodeKloud
+    Python API Development with FastAPI — KodeKloud
+    EduQual Level 4 Diploma in AI Advancement — (In Progress)
+
+🛡️ Cloud Infrastructure & MLOps Foundation
+
+    Certified Kubernetes Application Developer (CKAD) with hands-on labs — KodeKloud
+    Red Hat Certified System Administrator (RHCSA) — KodeKloud
+
+📫 Connect With Me
+
+💼 LinkedIn: Umaira Tahir
+⭐ “Learning, Building, and Improving Every Day.”
