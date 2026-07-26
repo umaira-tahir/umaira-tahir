@@ -62,18 +62,15 @@ Here you'll find:
 - Portfolio Projects
 - Open Source Contributions
 
-## 🎓 Certifications
+## 🎓 Education
 
-**🤖 Artificial Intelligence & Core AI Track**
-- IBM AI Engineering Professional Certificate — IBM / Coursera
-- NVIDIA Generative AI LLMs Associate Certification — KodeKloud
-- AI Agents (Multi-Agent Orchestration & Autonomous Design) — KodeKloud
-- Python API Development with FastAPI — KodeKloud
-- EduQual Level 4 Diploma in AI Advancement — (In Progress)
+- **Higher National Diploma, Artificial Intelligence Advancement** — Al Nafi International College *(1-year Diploma)*
+- **Higher National Diploma, DevOps and Cloud** — Al Nafi International College *(1-year Diploma)*
 
-**🛡️ Cloud Infrastructure & MLOps Foundation**
-- Certified Kubernetes Application Developer (CKAD) with hands-on labs — KodeKloud
-- Red Hat Certified System Administrator (RHCSA) — KodeKloud
+## 🏆 Certifications
+
+- ✅ **IBM AI Engineering Professional Certificate** — IBM / Coursera *(Completed)*
+- ✅ **Certified Kubernetes Application Developer (CKAD)** — KodeKloud
 
 ## 📫 Connect With Me
 
