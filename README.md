@@ -25,8 +25,20 @@
 - **Languages & Frameworks:** Python | Bash Scripting | FastAPI
 - **Data & Databases:** SQL (MySQL, PostgreSQL) | MongoDB
 - **Orchestration & DevOps:** Kubernetes 🛡️ | Docker | Git & GitHub
-- **AI/ML Libraries:** NumPy | Pandas | Matplotlib | Scikit-learn | PyTorch
-- **Agentic AI & GenAI:** LangChain | LangGraph | CrewAI | MCP (Model Context Protocol) | RAG | Vector Databases (pgvector) | Prompt Engineering
+- **AI/ML Libraries:** NumPy | Pandas | Matplotlib | Scikit-learn | PyTorch | TensorFlow | Keras
+- **Agentic AI & GenAI:** LangChain | LangGraph | CrewAI | MCP (Model Context Protocol) | RAG | Vector Databases (pgvector) | Prompt Engineering | n8n
+
+## 🚀 Featured Projects
+
+### 🧠 AI Engineering
+- 🗑️ **[Waste Classification Using Transfer Learning & Fine-Tuning](https://github.com/umaira-tahir/Waste-Classsifier-Transfer-Learning)** — Image classifier (Organic vs Recyclable) built with VGG16 transfer learning and fine-tuning in TensorFlow/Keras.
+- 🎮 **[League of Legends Match Predictor](https://github.com/umaira-tahir/League-of-Legends-Match-Predictor)** — Logistic regression model built in PyTorch to predict match outcomes, with L2 regularization, hyperparameter tuning, and feature importance analysis.
+
+### 🤖 Agentic AI
+- 🎪 **[Multi-Workflow Presales AI Agent System (n8n + Gemini API)](https://github.com/umaira-tahir/presales-ai-agent-system)** — An end-to-end autonomous presales AI ecosystem built using n8n workflows, Google Gemini API, custom sub-workflows, and Gmail integration.
+
+### ⚙️ MLOps
+- 🔧 *Coming soon*
 
 ## 🎯 2026 Goals
 
@@ -53,6 +65,7 @@ Here you'll find:
 ## 🎓 Certifications
 
 **🤖 Artificial Intelligence & Core AI Track**
+- IBM AI Engineering Professional Certificate — IBM / Coursera
 - NVIDIA Generative AI LLMs Associate Certification — KodeKloud
 - AI Agents (Multi-Agent Orchestration & Autonomous Design) — KodeKloud
 - Python API Development with FastAPI — KodeKloud
