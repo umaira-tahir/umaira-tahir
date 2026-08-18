@@ -2,13 +2,13 @@
 
 # Hi 👋, I'm Umaira Tahir
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Agentic+AI+Engineer;MLOps+Engineer;Building+Intelligent+Systems+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Agentic+AI+Engineer;MLOps+Engineer;Freelance+AI+%26+MLOps+Consultant;Building+Intelligent+Systems+%F0%9F%A4%96" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/umaira-tahir-7a3ab1354">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Projects-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Freelance%20Projects-brightgreen?style=for-the-badge" />
 </p>
 
 </div>
@@ -21,38 +21,28 @@
 
 💡 My goal is to become a skilled **AI Engineer** capable of building intelligent, scalable, and impactful AI solutions
 
-🌍 Freelance AI & MLOps Engineer — open to remote projects and collaborations
+🌍 Freelance **AI & MLOps Engineer** — specializing in **Agentic AI systems** and **production ML pipelines** — open to remote projects and collaborations
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Focused On
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-**📊 Data Science & Analytics**
-Data Analysis · NumPy · Pandas · Matplotlib · Scikit-learn
-
-</td>
-<td>
-
-**🧠 Core AI**
-Machine Learning Mathematics · Deep Learning Deep Dive
+**🤖 Agentic AI**
+LangChain · LangGraph · CrewAI
+Model Context Protocol (MCP) · RAG
+Vector Databases (pgvector) · Redis
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="50%">
 
-**👁️ Advanced Fields**
-Computer Vision · Natural Language Processing (NLP)
-
-</td>
-<td>
-
-**🤖 GenAI & Agents**
-RAG · QLoRA · Agentic AI · Model Context Protocol
+**⚙️ MLOps**
+AWS Cloud Architecture · Kubernetes (CKAD/CKA)
+CI/CD for ML Pipelines · Model Monitoring
+Elasticsearch & Kibana Observability
 
 </td>
 </tr>
@@ -60,7 +50,53 @@ RAG · QLoRA · Agentic AI · Model Context Protocol
 
 ---
 
-## 🛠️ Tech Stack & Infrastructure Tools
+## ✅ Core Foundations (Completed)
+
+<table>
+<tr>
+<td width="50%">
+
+**🖥️ Systems & Infrastructure**
+Linux (RHEL) · Bash Scripting · Python Deep Dive
+Docker · FastAPI · Git & GitHub
+
+</td>
+<td width="50%">
+
+**🗄️ Data & Databases**
+SQL (MySQL, PostgreSQL) · MongoDB
+Python Automation
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📐 Mathematics for AI**
+Linear Algebra · Probability · Statistics · Calculus
+
+</td>
+<td width="50%">
+
+**📊 Data Science & Analysis**
+NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**🧠 Machine Learning & Deep Learning**
+Machine Learning · Deep Learning · Computer Vision · Natural Language Processing
+PyTorch · TensorFlow · Keras
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages & Frameworks**
 
@@ -73,18 +109,22 @@ RAG · QLoRA · Agentic AI · Model Context Protocol
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 
 **Orchestration & DevOps**
 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 
-**AI / ML Libraries**
+**Data Science & AI/ML Libraries**
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -97,8 +137,8 @@ RAG · QLoRA · Agentic AI · Model Context Protocol
 <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square" />
 <img src="https://img.shields.io/badge/RAG-6C63FF?style=flat-square" />
 <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 
 ---
 
@@ -128,12 +168,12 @@ RAG · QLoRA · Agentic AI · Model Context Protocol
 
 ## 🎯 2026 Goals
 
-- 🏗️ Build a strong, production-grade AI portfolio
-- 🧠 Complete Deep Learning and Generative AI specializations
-- ⚙️ Master MLOps pipelines and Cloud technologies (AWS)
-- 🤖 Build advanced Agentic AI and RAG-based systems
-- 🌐 Contribute to Open Source
-- 📈 Grow as a freelance AI Engineer
+- 🤖 Build production-grade **Agentic AI systems** using LangChain, LangGraph, and CrewAI
+- ⚙️ Master **MLOps pipelines** — CI/CD, model monitoring, and cloud deployment on AWS
+- ☁️ Earn **AWS Machine Learning & Generative AI certifications**
+- 🚢 Deploy scalable AI systems with **Docker & Kubernetes**
+- 🌐 Contribute to Open Source AI/ML projects
+- 💼 Grow a strong **freelance AI & MLOps** client base
 
 ---
 
@@ -154,11 +194,22 @@ RAG · QLoRA · Agentic AI · Model Context Protocol
 
 ---
 
-## 📊 GitHub Journey
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=umaira-tahir&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umaira-tahir&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaira-tahir&layout=compact&hide_border=true" width="48%" />
+</div>
+
+---
+
+## 📌 GitHub Journey
 
 This profile documents my journey from AI student to AI Engineer.
-
-Here you'll find:
 
 🔹 Learning Projects &nbsp;·&nbsp; 🔹 AI Experiments &nbsp;·&nbsp; 🔹 Practice Repositories
 🔹 Notes & Resources &nbsp;·&nbsp; 🔹 Portfolio Projects &nbsp;·&nbsp; 🔹 Open Source Contributions
