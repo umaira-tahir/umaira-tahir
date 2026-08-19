@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Umaira Tahir
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Agentic+AI+Engineer;MLOps+Engineer;Freelance+AI+%26+MLOps+Consultant;Building+Intelligent+Systems+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Agentic+AI+Engineer;MLOps+Engineer;Building+Intelligent+Systems+%F0%9F%A4%96" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/umaira-tahir-7a3ab1354">
