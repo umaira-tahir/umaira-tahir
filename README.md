@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Umaira Tahir
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Agentic+AI+Engineer;MLOps+Engineer;Freelance+AI+%26+MLOps+Consultant;Building+Intelligent+Systems+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Agentic+AI+Engineer;MLOps+Engineer;Building+Intelligent+Systems+%F0%9F%A4%96" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/umaira-tahir-7a3ab1354">
@@ -25,70 +25,42 @@
 
 ---
 
-## 🌱 Currently Focused On
+## 🛠️ Technical Foundations & Core Expertise
 
 <table>
 <tr>
 <td width="50%">
 
-**🤖 Agentic AI**
+**🤖 Agentic AI & Modern GenAI**
 LangChain · LangGraph · CrewAI
-Model Context Protocol (MCP) · RAG
-Vector Databases (pgvector) · Redis
+Model Context Protocol (MCP) · RAG Architectures
+pgvector · Redis · LLM Fine-tuning / PEFT
 
 </td>
 <td width="50%">
 
-**⚙️ MLOps**
-AWS Cloud Architecture · Kubernetes (CKAD/CKA)
-CI/CD for ML Pipelines · Model Monitoring
-Elasticsearch & Kibana Observability
-
-</td>
-</tr>
-</table>
-
----
-
-## ✅ Core Foundations (Completed)
-
-<table>
-<tr>
-<td width="50%">
-
-**🖥️ Systems & Infrastructure**
-Linux (RHEL) · Bash Scripting · Python Deep Dive
-Docker · FastAPI · Git & GitHub
-
-</td>
-<td width="50%">
-
-**🗄️ Data & Databases**
-SQL (MySQL, PostgreSQL) · MongoDB
-Python Automation
+**🧠 Artificial Intelligence & ML Engineering**
+Machine Learning (Math & Python Implementation)
+Deep Learning · Computer Vision · NLP
+PyTorch · TensorFlow · Keras · Model Deployment
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**📐 Mathematics for AI**
+**📐 Mathematics & Data Science**
 Linear Algebra · Probability · Statistics · Calculus
+NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn
+Python Deep Dive · SQL (MySQL, PostgreSQL)
 
 </td>
 <td width="50%">
 
-**📊 Data Science & Analysis**
-NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-**🧠 Machine Learning & Deep Learning**
-Machine Learning · Deep Learning · Computer Vision · Natural Language Processing
-PyTorch · TensorFlow · Keras
+**⚙️ MLOps & AI Infrastructure**
+Kubernetes (CKAD) · Docker · FastAPI
+AWS Cloud Architecture · Linux (RHEL)
+Bash Scripting · Git & GitHub
 
 </td>
 </tr>
@@ -168,12 +140,12 @@ PyTorch · TensorFlow · Keras
 
 ## 🎯 2026 Goals
 
-- 🤖 Build production-grade **Agentic AI systems** using LangChain, LangGraph, and CrewAI
-- ⚙️ Master **MLOps pipelines** — CI/CD, model monitoring, and cloud deployment on AWS
-- ☁️ Earn **AWS Machine Learning & Generative AI certifications**
-- 🚢 Deploy scalable AI systems with **Docker & Kubernetes**
-- 🌐 Contribute to Open Source AI/ML projects
-- 💼 Grow a strong **freelance AI & MLOps** client base
+- 🤖 Master & Deploy autonomous **Agentic AI Workflows** using LangChain, LangGraph, CrewAI, and n8n
+- ⚙️ Build end-to-end **MLOps Pipelines** — automated CI/CD, model monitoring, continuous training, and observability
+- ☁️ Architect scalable AI solutions on **AWS Bedrock** and orchestrate microservices with **Kubernetes (CKAD)**
+- 🚀 Ship production-grade **RAG & Agent Systems** with vector databases (pgvector, Redis)
+- 🌐 Actively contribute to **Open Source AI/ML Infrastructure** repositories
+- 💼 Scale freelance client network for high-impact **Agentic AI & MLOps Engineering** projects
 
 ---
 
@@ -184,28 +156,17 @@ PyTorch · TensorFlow · Keras
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & Professional Specializations
 
-- ✅ **Deep Learning Specialization** — DeepLearning.AI
-- ✅ **IBM RAG and Agentic AI Professional Certificate** — IBM / Coursera
-- ✅ **AWS Generative AI Developer Professional Certificate** — AWS / Coursera
-- ✅ **Machine Learning Engineering for Production (MLOps)** — DeepLearning.AI
-- ✅ **Certified Kubernetes Application Developer (CKAD)** — KodeKloud
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=umaira-tahir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaira-tahir&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=umaira-tahir&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
+| Specialization / Certificate | Issuing Organization | Platform |
+| :--- | :--- | :--- |
+| **Deep Learning Specialization** | DeepLearning.AI | Coursera |
+| **Generative AI with Large Language Models** | DeepLearning.AI & AWS | Coursera |
+| **IBM RAG and Agentic AI Professional Certificate** | IBM | Coursera |
+| **Machine Learning Engineering for Production (MLOps)** | DeepLearning.AI | Coursera |
+| **AWS Generative AI and AI Agents with Amazon Bedrock** | AWS | Coursera |
+| **AWS Generative AI Applications Professional Certificate** | AWS | Coursera |
+| **Certified Kubernetes Application Developer (CKAD)** | Cloud Native Computing Foundation | KodeKloud |
 
 ---
 
