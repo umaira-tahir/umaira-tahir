@@ -17,11 +17,11 @@
 
 ## 👩‍💻 About Me
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, and AI Agents**
+🤖 **AI & MLOps Engineer** specializing in **Agentic AI systems**, **LLM orchestration**, and **production ML pipelines**.
 
-💡 My goal is to become a skilled **AI Engineer** capable of building intelligent, scalable, and impactful AI solutions
+💡 Skilled in building autonomous multi-agent workflows, scalable cloud infrastructure, and deployment of enterprise-grade AI solutions.
 
-🌍 Freelance **AI & MLOps Engineer** — specializing in **Agentic AI systems** and **production ML pipelines** — open to remote projects and collaborations
+🌍 Open to remote freelance opportunities, consulting engagements, and global AI engineering collaborations.
 
 ---
 
@@ -31,36 +31,49 @@
 <tr>
 <td width="50%">
 
-**🤖 Agentic AI & Modern GenAI**
-LangChain · LangGraph · CrewAI
-Model Context Protocol (MCP) · RAG Architectures
-pgvector · Redis · LLM Fine-tuning / PEFT
+**🤖 Agentic AI & Modern GenAI**<br>
+• LangChain<br>
+• LangGraph<br>
+• CrewAI<br>
+• Model Context Protocol (MCP)<br>
+• RAG Architectures<br>
+• pgvector & Redis<br>
+• LLM Fine-tuning / PEFT
 
 </td>
 <td width="50%">
 
-**🧠 Artificial Intelligence & ML Engineering**
-Machine Learning (Math & Python Implementation)
-Deep Learning · Computer Vision · NLP
-PyTorch · TensorFlow · Keras · Model Deployment
+**🧠 Artificial Intelligence & ML**<br>
+• Machine Learning (Math & Python)<br>
+• Deep Learning & CNNs<br>
+• Computer Vision & NLP<br>
+• PyTorch & TensorFlow<br>
+• Keras<br>
+• Model Deployment
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**📐 Mathematics & Data Science**
-Linear Algebra · Probability · Statistics · Calculus
-NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn
-Python Deep Dive · SQL (MySQL, PostgreSQL)
+**📐 Mathematics & Data Science**<br>
+• Linear Algebra & Calculus<br>
+• Probability & Statistics<br>
+• NumPy, Pandas & Scikit-learn<br>
+• Matplotlib & Seaborn<br>
+• Python Deep Dive<br>
+• SQL (MySQL, PostgreSQL)
 
 </td>
 <td width="50%">
 
-**⚙️ MLOps & AI Infrastructure**
-Kubernetes (CKAD) · Docker · FastAPI
-AWS Cloud Architecture · Linux (RHEL)
-Bash Scripting · Git & GitHub
+**⚙️ MLOps & AI Infrastructure**<br>
+• Kubernetes (CKAD)<br>
+• Docker Containers<br>
+• FastAPI Framework<br>
+• AWS Cloud Architecture<br>
+• Red Hat Enterprise Linux (RHEL)<br>
+• Bash Scripting & Git/GitHub
 
 </td>
 </tr>
