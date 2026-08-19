@@ -194,21 +194,6 @@ PyTorch · TensorFlow · Keras
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=umaira-tahir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaira-tahir&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=umaira-tahir&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
----
-
 ## 📌 GitHub Journey
 
 This profile documents my journey from AI student to AI Engineer.
