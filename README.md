@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Umaira Tahir
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Agentic+AI+Engineer;MLOps+Engineer;Building+Intelligent+Systems+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Agentic+AI+Engineer;MLOps+Engineer;Freelance+AI+%26+MLOps+Consultant;Building+Intelligent+Systems+%F0%9F%A4%96" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/umaira-tahir-7a3ab1354">
@@ -197,12 +197,14 @@ PyTorch · TensorFlow · Keras
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=umaira-tahir&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umaira-tahir&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=umaira-tahir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaira-tahir&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
+## 🏆 GitHub Trophies
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaira-tahir&layout=compact&hide_border=true" width="48%" />
+<img src="https://github-profile-trophy.vercel.app/?username=umaira-tahir&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
