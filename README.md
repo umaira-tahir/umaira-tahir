@@ -19,9 +19,9 @@
 
 🤖 **AI & MLOps Engineer** specializing in **Agentic AI systems**, **LLM orchestration**, and **production ML pipelines**.
 
-💡 Skilled in building autonomous multi-agent workflows, scalable cloud infrastructure, and deployment of enterprise-grade AI solutions.
+💡 Passionate about building autonomous multi-agent workflows, scalable cloud architecture, and end-to-end AI solutions.
 
-🌍 Open to remote freelance opportunities, consulting engagements, and global AI engineering collaborations.
+🌍 Open to remote freelance projects, AI Engineering opportunities, and global technical collaborations.
 
 ---
 
@@ -32,24 +32,19 @@
 <td width="50%">
 
 **🤖 Agentic AI & Modern GenAI**<br>
-• LangChain<br>
-• LangGraph<br>
-• CrewAI<br>
-• Model Context Protocol (MCP)<br>
-• RAG Architectures<br>
-• pgvector & Redis<br>
-• LLM Fine-tuning / PEFT
+LangChain · LangGraph · CrewAI<br>
+Model Context Protocol (MCP) · LLM Engineering<br>
+Advanced RAG Architectures · QLoRA & Fine-Tuning<br>
+Vector DBs (pgvector) · Redis Cache
 
 </td>
 <td width="50%">
 
-**🧠 Artificial Intelligence & ML**<br>
-• Machine Learning (Math & Python)<br>
-• Deep Learning & CNNs<br>
-• Computer Vision & NLP<br>
-• PyTorch & TensorFlow<br>
-• Keras<br>
-• Model Deployment
+**🧠 Artificial Intelligence & ML Engineering**<br>
+Machine Learning (Math & Python Implementation)<br>
+Deep Learning · CNNs · Sequence Models<br>
+Computer Vision · Natural Language Processing (NLP)<br>
+PyTorch · TensorFlow · Keras · Scikit-learn
 
 </td>
 </tr>
@@ -57,23 +52,19 @@
 <td width="50%">
 
 **📐 Mathematics & Data Science**<br>
-• Linear Algebra & Calculus<br>
-• Probability & Statistics<br>
-• NumPy, Pandas & Scikit-learn<br>
-• Matplotlib & Seaborn<br>
-• Python Deep Dive<br>
-• SQL (MySQL, PostgreSQL)
+Linear Algebra · Probability · Statistics · Calculus<br>
+NumPy · Pandas · Matplotlib · Seaborn<br>
+Python Deep Dive · SQL (MySQL, PostgreSQL)<br>
+MongoDB · Data Analysis & Pipelines
 
 </td>
 <td width="50%">
 
-**⚙️ MLOps & AI Infrastructure**<br>
-• Kubernetes (CKAD)<br>
-• Docker Containers<br>
-• FastAPI Framework<br>
-• AWS Cloud Architecture<br>
-• Red Hat Enterprise Linux (RHEL)<br>
-• Bash Scripting & Git/GitHub
+**⚙️ MLOps & Infrastructure**<br>
+Kubernetes (CKAD) · Docker Containers<br>
+CI/CD for ML Pipelines · Model Monitoring<br>
+FastAPI · AWS Cloud Architecture<br>
+Red Hat Enterprise Linux (RHEL) · Bash Scripting
 
 </td>
 </tr>
