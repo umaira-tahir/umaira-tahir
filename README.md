@@ -184,13 +184,17 @@ PyTorch · TensorFlow · Keras
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & Professional Specializations
 
-- ✅ **Deep Learning Specialization** — DeepLearning.AI
-- ✅ **IBM RAG and Agentic AI Professional Certificate** — IBM / Coursera
-- ✅ **AWS Generative AI Developer Professional Certificate** — AWS / Coursera
-- ✅ **Machine Learning Engineering for Production (MLOps)** — DeepLearning.AI
-- ✅ **Certified Kubernetes Application Developer (CKAD)** — KodeKloud
+| Specialization / Certificate | Issuing Organization | Platform |
+| :--- | :--- | :--- |
+| **Deep Learning Specialization** | DeepLearning.AI | Coursera |
+| **Generative AI with Large Language Models** | DeepLearning.AI & AWS | Coursera |
+| **IBM RAG and Agentic AI Professional Certificate** | IBM | Coursera |
+| **Machine Learning Engineering for Production (MLOps)** | DeepLearning.AI | Coursera |
+| **AWS Generative AI and AI Agents with Amazon Bedrock** | AWS | Coursera |
+| **AWS Generative AI Applications Professional Certificate** | AWS | Coursera |
+| **Certified Kubernetes Application Developer (CKAD)** | Cloud Native Computing Foundation | KodeKloud |
 
 ---
 
