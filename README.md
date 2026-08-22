@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Umaira Tahir
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Agentic+AI+Engineer;MLOps+Engineer;Freelance+AI+%26+MLOps+Consultant;Building+Intelligent+Systems+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Agentic+AI+Engineer;MLOps+Engineer;Building+Intelligent+Systems+%F0%9F%A4%96" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/umaira-tahir-7a3ab1354">
@@ -17,78 +17,54 @@
 
 ## 👩‍💻 About Me
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, and AI Agents**
+🤖 **AI & MLOps Engineer** specializing in **Agentic AI systems**, **LLM orchestration**, and **production ML pipelines**.
 
-💡 My goal is to become a skilled **AI Engineer** capable of building intelligent, scalable, and impactful AI solutions
+💡 Passionate about building autonomous multi-agent workflows, scalable cloud architecture, and end-to-end AI solutions.
 
-🌍 Freelance **AI & MLOps Engineer** — specializing in **Agentic AI systems** and **production ML pipelines** — open to remote projects and collaborations
+🌍 Open to remote freelance projects, AI Engineering opportunities, and global technical collaborations.
 
 ---
 
-## 🌱 Currently Focused On
+## 🛠️ Technical Foundations & Core Expertise
 
 <table>
 <tr>
 <td width="50%">
 
-**🤖 Agentic AI**
-LangChain · LangGraph · CrewAI
-Model Context Protocol (MCP) · RAG
-Vector Databases (pgvector) · Redis
+**🤖 Agentic AI & Modern GenAI**<br>
+LangChain · LangGraph · CrewAI<br>
+Model Context Protocol (MCP) · LLM Engineering<br>
+Advanced RAG Architectures · QLoRA & Fine-Tuning<br>
+Vector DBs (pgvector) · Redis Cache
 
 </td>
 <td width="50%">
 
-**⚙️ MLOps**
-AWS Cloud Architecture · Kubernetes (CKAD/CKA)
-CI/CD for ML Pipelines · Model Monitoring
-Observability & Production AI Security
-
-</td>
-</tr>
-</table>
-
----
-
-## ✅ Core Foundations (Completed)
-
-<table>
-<tr>
-<td width="50%">
-
-**🖥️ Systems & Infrastructure**
-Linux (RHEL) · Bash Scripting · Python Deep Dive
-Docker · FastAPI · Git & GitHub
-
-</td>
-<td width="50%">
-
-**🗄️ Data & Databases**
-SQL (MySQL, PostgreSQL) · MongoDB
-Python Automation
+**🧠 Artificial Intelligence & ML Engineering**<br>
+Machine Learning (Math & Python Implementation)<br>
+Deep Learning · CNNs · Sequence Models<br>
+Computer Vision · Natural Language Processing (NLP)<br>
+PyTorch · TensorFlow · Keras · Scikit-learn
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**📐 Mathematics for AI**
-Linear Algebra · Probability · Statistics · Calculus
+**📐 Mathematics & Data Science**<br>
+Linear Algebra · Probability · Statistics · Calculus<br>
+NumPy · Pandas · Matplotlib · Seaborn<br>
+Python Deep Dive · SQL (MySQL, PostgreSQL)<br>
+MongoDB · Data Analysis & Pipelines
 
 </td>
 <td width="50%">
 
-**📊 Data Science & Analysis**
-NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-**🧠 Machine Learning & Deep Learning**
-Machine Learning · Deep Learning · Computer Vision · Natural Language Processing
-PyTorch · TensorFlow · Keras
+**⚙️ MLOps & Infrastructure**<br>
+Kubernetes (CKAD) · Docker Containers<br>
+CI/CD for ML Pipelines · Model Monitoring<br>
+FastAPI · AWS Cloud Architecture<br>
+Red Hat Enterprise Linux (RHEL) · Bash Scripting
 
 </td>
 </tr>
@@ -168,12 +144,12 @@ PyTorch · TensorFlow · Keras
 
 ## 🎯 2026 Goals
 
-- 🤖 Build production-grade **Agentic AI systems** using LangChain, LangGraph, and CrewAI
-- ⚙️ Master **MLOps pipelines** — CI/CD, model monitoring, and cloud deployment on AWS
-- 🔒 Build **secure, observable, and reliable** production AI systems
-- 🚢 Deploy scalable AI systems with **Docker & Kubernetes**
-- 🌐 Contribute to Open Source AI/ML projects
-- 💼 Grow a strong **freelance AI & MLOps** client base
+- 🤖 Master & Deploy autonomous **Agentic AI Workflows** using LangChain, LangGraph, CrewAI, and n8n
+- ⚙️ Build end-to-end **MLOps Pipelines** — automated CI/CD, model monitoring, continuous training, and observability
+- ☁️ Architect scalable AI solutions on **AWS Bedrock** and orchestrate microservices with **Kubernetes (CKAD)**
+- 🚀 Ship production-grade **RAG & Agent Systems** with vector databases (pgvector, Redis)
+- 🌐 Actively contribute to **Open Source AI/ML Infrastructure** repositories
+- 💼 Scale freelance client network for high-impact **Agentic AI & MLOps Engineering** projects
 
 ---
 
@@ -191,8 +167,9 @@ PyTorch · TensorFlow · Keras
 | **Deep Learning Specialization** | DeepLearning.AI | Coursera |
 | **Generative AI with Large Language Models** | DeepLearning.AI & AWS | Coursera |
 | **IBM RAG and Agentic AI Professional Certificate** | IBM | Coursera |
-| **AWS Generative AI and AI Agents with Amazon Bedrock** | AWS | Coursera |
 | **Machine Learning Engineering for Production (MLOps)** | DeepLearning.AI | Coursera |
+| **AWS Generative AI and AI Agents with Amazon Bedrock** | AWS | Coursera |
+| **AWS Generative AI Applications Professional Certificate** | AWS | Coursera |
 | **LLM Engineering That Works: Prompting, Tuning, and Retrieval** | Coursera | Coursera |
 | **Certified Kubernetes Application Developer (CKAD)** | Cloud Native Computing Foundation | KodeKloud |
 
