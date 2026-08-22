@@ -160,18 +160,17 @@ Red Hat Enterprise Linux (RHEL) · Bash Scripting
 
 ---
 
-## 🏆 Certifications & Professional Specializations
+## 🏆 Professional Certifications & Specializations
 
-| Specialization / Certificate | Issuing Organization | Platform |
-| :--- | :--- | :--- |
-| **Deep Learning Specialization** | DeepLearning.AI | Coursera |
-| **Generative AI with Large Language Models** | DeepLearning.AI & AWS | Coursera |
-| **IBM RAG and Agentic AI Professional Certificate** | IBM | Coursera |
-| **Machine Learning Engineering for Production (MLOps)** | DeepLearning.AI | Coursera |
+| Specialization / Certificate | Issuing Organization
+| :--- | :--- |
+| **Deep Learning Specialization** | DeepLearning.AI |
+| **Generative AI with Large Language Models** | DeepLearning.AI & AWS |
+| **IBM RAG and Agentic AI Professional Certificate** | IBM |
+| **Machine Learning Engineering for Production (MLOps)** | DeepLearning.AI |
 | **AWS Generative AI and AI Agents with Amazon Bedrock** | AWS | Coursera |
-| **AWS Generative AI Applications Professional Certificate** | AWS | Coursera |
-| **LLM Engineering That Works: Prompting, Tuning, and Retrieval** | Coursera | Coursera |
-| **Certified Kubernetes Application Developer (CKAD)** | Cloud Native Computing Foundation | KodeKloud |
+| **LLM Engineering That Works: Prompting, Tuning, and Retrieval** | Coursera |
+| **Certified Kubernetes Application Developer (CKAD)** | KodeKloud |
 
 ---
 
