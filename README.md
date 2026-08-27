@@ -155,8 +155,8 @@ Red Hat Enterprise Linux (RHEL) · Bash Scripting
 
 ## 🎓 Education
 
-- **Advanced Diploma, Artificial Intelligence Advancement** — Al Nafi International College *(1-year)*
-- **Advanced Diploma, DevOps and Cloud** — Al Nafi International College *(1-year)*
+- **Advanced Diploma in Artificial Intelligence Advancement** — Al Nafi International College *(1-year)*
+- **Advanced Diploma in DevOps and Cloud** — Al Nafi International College *(1-year)*
 
 ---
 
