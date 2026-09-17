@@ -165,7 +165,6 @@ Red Hat Enterprise Linux (RHEL) · Bash Scripting
 | Specialization / Certificate | Issuing Organization
 | :--- | :--- |
 | **Deep Learning Specialization** | DeepLearning.AI |
-| **Generative AI with Large Language Models** | DeepLearning.AI & AWS |
 | **IBM RAG and Agentic AI Professional Certificate** | IBM |
 | **Machine Learning Engineering for Production (MLOps)** | DeepLearning.AI |
 | **AWS Generative AI and AI Agents with Amazon Bedrock** | AWS | Coursera |
